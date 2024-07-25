@@ -1,0 +1,110 @@
+body { 
+	text-align: center;
+	background-color: white;
+	font-family: georgia;
+	font-size: 18pt;
+	color: white;
+	background-image: url(https://jooinn.com/images/white-fur-5.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #BC8F8F;
+	margin: 0px;
+}
+
+#bodytext {
+	color: #BC8F8F;
+	text-shadow: .1px .1px 40px gray;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.banner2 {
+	position: relative;
+	width: 100%;
+	height: 60vh;
+	background: url(https://lh3.googleusercontent.com/pw/ACtC-3eLHbg8j624tra0smodyzNEruqudZYUvarXd4yS3ZFSBb8DLZzsbuptJuKXiJoS6CqNxFGlx5HLWKek4vJHfD55ZQGsJ2RbEEARy2ioT7_qOrekwjcG7l2N1bO4D-nE_HZOKFsNjaG1GLNTKfZmBsYv=w501-h483-no?authuser=0);
+	background-size: ;
+	background-attachment: fixed;
+	margin: 0px;
+}
+.banner3 {
+	position: relative;
+	width: 100%;
+	height: 60vh;
+	background: url(https://lh3.googleusercontent.com/pw/ACtC-3cSCgy-_tAipAwj5PfLAk3ueBVMitwxlqmRqfH9wxgb20MiSqWiB9-o-McLHcVdIp1AaWaaA-Ct4xdqTD1cw8YZppBVPC5a4nK79thB1ji2eKwNs8sHIXubXZgxnVAffrUAlFsuLVQbzN9-w0bnV31K=s512-no?authuser=0);
+	background-size: ;
+	background-attachment: fixed;
+	margin: 0px;
+}
+.banner4 {
+	position: relative;
+	width: 100%;
+	height: 60vh;
+	background: url(https://lh3.googleusercontent.com/pw/ACtC-3d6gyI0vaK0giS1Z74x7WMAO6HAl8PjmV_77lF3auGaX-X8uGNIwQPV3UUIFjrdB0V7nFVGFbI2RGsOZqWrzH8A2I7MvNIiZ2pY2pGCV8CPuSoIoabN98HyPOPzFmjUzBMF21Bq-MwTjM8ZRXZWvuVm=s518-no?authuser=0);
+	background-size: ;
+	background-attachment: fixed;
+	margin: 0px;
+}
+
+.topNavigation {
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	text-shadow: 3px 3px 30px black;
+}
+.topNavigation:hover {
+	color: #BC8F8F;
+	transition: .7s;
+	
+}
+#mainPicture {
+	width: 100%;
+	size: relative;
+}
+#annawilson {
+	font-size: 32pt;
+	position: relative;
+	color: white;
+	width: 100%;
+	top: 0%;
+	transform: translateY(150px);
+	text-shadow: 1px 1px 30px black;
+	text-align: center;
+	font-size: 40pt;
+	font-family: consolas;
+}
+#welcome {
+	margin: 50px;
+	text-align: left;
+	font-family: arial;
+	font-size: 15pt;
+}
+
+.center {
+ 	display: block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 50%;
+}
+
+
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
